@@ -42,8 +42,8 @@ A simple image cropping tool built with PyQt5 and OpenCV. This application allow
 
 2. **Install Dependencies:**
 
-   pip install PyQt5 opencv-python numpy
+    pip install PyQt5 opencv-python numpy
 
 3.**Run the applciation**
 
-  python3 insect_cropper.py
+    python3 insect_cropper.py
